@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.matula.richar.com.richard.matula.gpslocator.GPSLocator">
+        <activity android:name="com.matula.richar.gpslocator.GPSLocator">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
